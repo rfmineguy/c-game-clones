@@ -88,7 +88,6 @@ int main() {
 	while (!WindowShouldClose()) {
 		// Game Over logic
 		if (game_over) {
-			printf("Game over\n");
 			if (IsKeyPressed(KEY_R)) {
 				game_over = false;
 				ll_Vector2_free(&snake_list);
