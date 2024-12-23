@@ -3,7 +3,7 @@ A repo for writing simple game clones in C with raylib
 
 # Game Checklist
 - [x] Snake - A game where you collect food to grow.
-- [ ] Pong – A simple two-player paddle game.
+- [x] Pong – A simple two-player paddle game.
 - [ ] Tetris – A tile-matching puzzle game.
 - [ ] Breakout – A game where you control a paddle to break bricks.
 - [ ] Pac-Man – Navigate mazes, eat pellets, and avoid ghosts.
